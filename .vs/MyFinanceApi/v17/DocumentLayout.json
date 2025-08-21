@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FB64FB-5BE3-4A0C-9F87-E060366589C2}|MyFinanceApi\\MyFinance.WebApi.csproj|d:\\gabriel\\programacao\\myfinanceapi\\myfinanceapi\\myfinanceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FB64FB-5BE3-4A0C-9F87-E060366589C2}|MyFinanceApi\\MyFinance.WebApi.csproj|solutionrelative:myfinanceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096F591D-DEA6-4741-ADC2-D5DB92367906}|MyFinanceApi.Data\\MyFinance.Data.csproj|d:\\gabriel\\programacao\\myfinanceapi\\myfinanceapi\\myfinanceapi.data\\mappings\\invoiceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096F591D-DEA6-4741-ADC2-D5DB92367906}|MyFinanceApi.Data\\MyFinance.Data.csproj|solutionrelative:myfinanceapi.data\\mappings\\invoiceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E8CF5A-001B-4466-A050-9BAD915033BE}|MyFinance.Shared\\MyFinance.Shared.csproj|d:\\gabriel\\programacao\\myfinanceapi\\myfinanceapi\\myfinance.shared\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E8CF5A-001B-4466-A050-9BAD915033BE}|MyFinance.Shared\\MyFinance.Shared.csproj|solutionrelative:myfinance.shared\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47CA05DA-563A-49D0-A2D9-32AE11A2C3F0}|MyFinance.Domain\\MyFinance.Domain.csproj|d:\\gabriel\\programacao\\myfinanceapi\\myfinanceapi\\myfinance.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CA05DA-563A-49D0-A2D9-32AE11A2C3F0}|MyFinance.Domain\\MyFinance.Domain.csproj|solutionrelative:myfinance.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E8CF5A-001B-4466-A050-9BAD915033BE}|MyFinance.Shared\\MyFinance.Shared.csproj|d:\\gabriel\\programacao\\myfinanceapi\\myfinanceapi\\myfinance.shared\\myfinance.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9E8CF5A-001B-4466-A050-9BAD915033BE}|MyFinance.Shared\\MyFinance.Shared.csproj|solutionrelative:myfinance.shared\\myfinance.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47CA05DA-563A-49D0-A2D9-32AE11A2C3F0}|MyFinance.Domain\\MyFinance.Domain.csproj|d:\\gabriel\\programacao\\myfinanceapi\\myfinanceapi\\myfinance.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CA05DA-563A-49D0-A2D9-32AE11A2C3F0}|MyFinance.Domain\\MyFinance.Domain.csproj|solutionrelative:myfinance.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096F591D-DEA6-4741-ADC2-D5DB92367906}|MyFinanceApi.Data\\MyFinance.Data.csproj|d:\\gabriel\\programacao\\myfinanceapi\\myfinanceapi\\myfinanceapi.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096F591D-DEA6-4741-ADC2-D5DB92367906}|MyFinanceApi.Data\\MyFinance.Data.csproj|solutionrelative:myfinanceapi.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 694,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinanceApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyFinanceApi\\Program.cs",
+              "ToolTip": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinanceApi\\Program.cs",
+              "RelativeToolTip": "MyFinanceApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T22:32:45.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceProfile.cs",
+              "DocumentMoniker": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinanceApi.Data\\Mappings\\InvoiceProfile.cs",
+              "RelativeDocumentMoniker": "MyFinanceApi.Data\\Mappings\\InvoiceProfile.cs",
+              "ToolTip": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinanceApi.Data\\Mappings\\InvoiceProfile.cs",
+              "RelativeToolTip": "MyFinanceApi.Data\\Mappings\\InvoiceProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T22:30:01.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinance.Shared\\Dtos\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "MyFinance.Shared\\Dtos\\TransactionDto.cs",
+              "ToolTip": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinance.Shared\\Dtos\\TransactionDto.cs",
+              "RelativeToolTip": "MyFinance.Shared\\Dtos\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T22:26:03.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyFinance.Shared.csproj",
+              "DocumentMoniker": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinance.Shared\\MyFinance.Shared.csproj",
+              "RelativeDocumentMoniker": "MyFinance.Shared\\MyFinance.Shared.csproj",
+              "ToolTip": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinance.Shared\\MyFinance.Shared.csproj",
+              "RelativeToolTip": "MyFinance.Shared\\MyFinance.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T22:25:23.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinanceApi.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyFinanceApi.Data\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinanceApi.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyFinanceApi.Data\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T22:04:12.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinance.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "MyFinance.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinance.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "MyFinance.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T22:02:00.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinance.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "MyFinance.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "D:\\Gabriel\\Programacao\\MyFinanceApi\\MyFinanceApi\\MyFinance.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "MyFinance.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T21:59:50.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
